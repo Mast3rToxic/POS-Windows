@@ -7,12 +7,15 @@
     "required": false,
     "min_version": "1.0.0",
     "title": "Actualización 1.0.0 disponible",
-    "message": "POS Windows 1.0.1 ya está disponible con mejoras visuales y correcciones.",
+    "message": "POS Windows 1.0.0 ya está disponible con mejoras de estabilidad y ajustes generales.",
     "changes": [
-        "Seagrego el diseño en pantallas para windows.",
-        "nuevo sistema de ventanas",
-        "Mejoras en la interfaz de usuario (UI)."
+        "Se agregó el diseño adaptativo en pantallas para Windows.",
+        "Implementación del nuevo sistema de ventanas emergentes.",
+        "Mejoras generales en la interfaz de usuario (UI).",
+        "Integración del control de roles (Administrador y Cajero).",
+        "Incorporación de botones de cierre y salida segura en Login y POS.",
+        "Optimización del sistema de actualización automática mediante JSON local."
     ],
-    "download": "https://github.com/Mast3rToxic/Multitask/",
-    "release_notes": "https://github.com/Mast3rToxic/"
+    "download": "https://github.com/Mast3rToxic/POS-Windows/releases/download/1.0.0/POS_1.0.0.exe",
+    "release_notes": "https://github.com/Mast3rToxic/POS-Windows/releases/tag/1.0.0"
 }
