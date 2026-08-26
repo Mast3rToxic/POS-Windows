@@ -1,0 +1,18 @@
+{
+    "app": "POS Windows",
+    "channel": "stable",
+    "version": "1.0.0",
+    "build": 2,
+    "published": "2026-08-25",
+    "required": false,
+    "min_version": "1.0.0",
+    "title": "Actualización 1.0.0 disponible",
+    "message": "POS Windows 1.0.1 ya está disponible con mejoras visuales y correcciones.",
+    "changes": [
+        "Seagrego el diseño en pantallas para windows.",
+        "nuevo sistema de ventanas",
+        "Mejoras en la interfaz de usuario (UI)."
+    ],
+    "download": "https://github.com/Mast3rToxic/Multitask/",
+    "release_notes": "https://github.com/Mast3rToxic/"
+}
