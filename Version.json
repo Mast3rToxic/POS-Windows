@@ -1,21 +1,24 @@
 {
-    "app": "POS Windows",
+    "app": "POS System",
     "channel": "stable",
     "version": "1.0.0",
     "build": 2,
-    "published": "2026-08-25",
-    "required": false,
+    "published": "2026-08-26",
+    "required": true,
     "min_version": "1.0.0",
-    "title": "Actualización 1.0.0 disponible",
-    "message": "POS Windows 1.0.0 ya está disponible con mejoras de estabilidad y ajustes generales.",
+    "title": "Actualización 1.0.1 disponible",
+    "message": "POS System 1.0.1 trae una renovación visual total y potentes mejoras operativas para el negocio.",
     "changes": [
-        "Se agregó el diseño adaptativo en pantallas para Windows.",
-        "Implementación del nuevo sistema de ventanas emergentes.",
-        "Mejoras generales en la interfaz de usuario (UI).",
-        "Integración del control de roles (Administrador y Cajero).",
-        "Incorporación de botones de cierre y salida segura en Login y POS.",
-        "Optimización del sistema de actualización automática mediante JSON local."
+        "Nueva interfaz gráfica (UI) optimizada y moderna en el módulo de Login.",
+        "Implementación del guardado acumulativo de ventas en ventas.json.",
+        "Pantalla de cambio dinámica visible tras cada cobro exitoso.",
+        "Nuevos atajos de teclado globales ([F2] Buscador, [F3] Ingresar efectivo, [F5] Cobrar).",
+        "Control dinámico de permisos por roles (Administrador y Cajero).",
+        "Módulo de Inventario (Próximamente...).",
+        "Módulo de Historial de Transacciones y Cortes de Turno (Próximamente...).",
+        "Configuraciones avanzadas de sistema y gestión de usuarios (Próximamente...)"
     ],
-    "download": "https://github.com/Mast3rToxic/POS-Windows/releases/download/1.0.0/POS_1.0.0.exe",
-    "release_notes": "https://github.com/Mast3rToxic/POS-Windows/releases/tag/1.0.0"
+    "download_windows": "https://github.com/Mast3rToxic/POS-Windows/releases/download/1.0.1/POS_1.0.1_Windows.zip",
+    "download_linux": "https://github.com/Mast3rToxic/POS-Windows/releases/download/1.0.1/POS_1.0.1_Linux.zip",
+    "release_notes": "https://github.com/Mast3rToxic/POS-Windows/releases/tag/1.0.1"
 }
